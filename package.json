@@ -1,0 +1,31 @@
+{
+  "name": "nodejsmysql",
+  "version": "1.0.0",
+  "description": "A beginner's work",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "A",
+    "walkthrough",
+    "of",
+    "rest",
+    "call",
+    "using",
+    "node",
+    "JS",
+    "and",
+    "mysql"
+  ],
+  "author": "Vikas S R A",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser":"^1.15.2",
+    "express": "^4.14.0",
+    "mysql":"^2.12.0",
+    "chai":"*",
+    "chai-http":"*",
+    "mocha":"*" 
+  }
+}
